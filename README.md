@@ -1,7 +1,8 @@
 # FinTech Case Study: JP Morgan Coin
 
 ### 1. Overview and Origin
-In February of 2019, JP Morgan announced that it would be launching a blockchain-powered digital currency called JPM Coin, a stablecoin that has its value pegged to the U.S. dollar. The goal is to allow their customers, especially among institutional investors, to make instantaneous payments using blockchain-based technology. As Umar Farooq said, head of digital treasury services and blockchain at JP Morgan, > "Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin".
+In February of 2019, JP Morgan announced that it would be launching a blockchain-powered digital currency called JPM Coin, a stablecoin that has its value pegged to the U.S. dollar. The goal is to allow their customers, especially among institutional investors, to make instantaneous payments using blockchain-based technology. As Umar Farooq said, head of digital treasury services and blockchain at JP Morgan: 
+> "Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin".
 
  JPM coin is significantly different from cryptocurrencies such as Bitcoin, for example, it is redeemable at 1:1 ratio for the US dollar whereas Bitcoin cannot be exchanged with other currencies or valuable assets such as gold.
 

@@ -23,14 +23,7 @@ JPM Coin runs on a blockchain technology called Quorum, a network J.P. Morgain d
 
 ### 3. Landscape
 
-
-
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
-
+JPM Coin sits on the domain of blockchain and [cryptocurrencies](https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/). In the last 5-10 years, blockchain has gained its popularity. Particularly, the Ethereum blockchain system introduces computer programs into the blocks, representing financial instruments such as bonds. These become known as smart contracts. One significant feature of cryptocurrency is decentralized control. It means that its supply and value are controlled by the activities of their users and complicated protocols, not by central banks or other regulatory authorities. There are also other financial or technology companies that have invested in blockchain, for example, Bitcoin, Facebook Libra and Goldman Sach's Marcus.
 
 ### 4. Results
 

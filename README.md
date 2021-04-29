@@ -11,6 +11,9 @@ In February of 2019, JP Morgan announced that it would be launching a blockchain
 
 ### 2. Business Activities
 
+The specific financial problem that JPMorgan attempts to address is to exchange value between different parties over blockchain. Ultimately, the bank's intended customer is all their customers. However now, JPM coin is still at a testing stage as Farooq stated:
+> JPM Coin is currently designed for business-to-business money movement flows, and because we are still in a testing phase, we don’t have plans to make this available to individuals at this stage. That said, the cost-savings and efficiency benefits would extend to the end customers of our institutional clients.
+
 * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?

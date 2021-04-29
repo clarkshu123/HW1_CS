@@ -27,22 +27,11 @@ JPM Coin sits on the domain of blockchain and [cryptocurrencies](https://www.mon
 
 ### 4. Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+The business impact of JPM Coin is not huge given its still in a early stage. Many within the community question whether the coin is a necessity because banks already have similar procedures in place regarding other payment processes. However, some believe that JPM Coin is the solution to the SWIFT payment system, and there are several metrics that have been used to measure the efficienty of a digital currency such as settlement times, transcation costs as well as error margins. It turns out that JPM Coin has performed relatively better than other digital assets by its faster settlement times, smaller costs and reduced error amounts.
 
 ### 5. Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
+Since investors have to register for a pre-specified account in order to exchange their funds with JPM coins, which puts them into a disadvantage when compared to other well-received payment methods that only need a digital device such as Venmo, Paypal and recent-launched Google Pay. If JP Morgan can develop a similar mobile App that allows users to link to their checking accounts, that would expedite the entire payment process, which also incentivizes them to use the JPM Coins if everything becomes more convenient.
 
 ### Sources
 

@@ -37,7 +37,7 @@ Since investors have to register for a pre-specified account in order to exchang
 
 ### Sources
 
-(https://www.bitcoinmarketjournal.com/jpm-coin/#:~:text=JPM%20Coin%20is%20designed%20to,1%20to%20the%20US%20dollar.&text=JPM%20Coin%20runs%20on%20the,version%20of%20the%20Ethereum%20network)
+[https://www.bitcoinmarketjournal.com/jpm-coin/#:~:text=JPM%20Coin%20is%20designed%20to,1%20to%20the%20US%20dollar.&text=JPM%20Coin%20runs%20on%20the,version%20of%20the%20Ethereum%20network]
 
 [https://www.investopedia.com/jpmorgan-to-launch-jpm-coin-4587182]
 

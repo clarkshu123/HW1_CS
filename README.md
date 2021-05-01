@@ -7,7 +7,7 @@ In February of 2019, JP Morgan announced that it would be launching a blockchain
 
 > Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin.
 
- JPM Coin is significantly different from cryptocurrencies such as Bitcoin, for example, it is redeemable at 1:1 ratio for the US dollar. It is relatively easy for investors to use JPM Coin. To begin with, a client has to deposit a lump sum of money in a special account and askes for exchanging correponding JPM coins. Second, these coins can be utilized among different transactions across a blockchain network and with other JPMorgan clients. Last, their JPM coins can be redeemed with the bank to receive U.S. dollars at any moment.
+ JPM Coin is significantly different from cryptocurrencies such as Bitcoin, for example, it is redeemable at 1:1 ratio for the US dollar whereas cryptocurrency has no government backing. It is relatively easy for investors to use JPM Coin. To begin with, a client has to deposit a lump sum of money in a special account and askes for exchanging correponding JPM coins. Second, these coins can be utilized among different transactions across a blockchain network and with other JPMorgan clients. Last, their JPM coins can be redeemed with the bank to receive U.S. dollars at any moment.
 
 
 ### 2. Business Activities
@@ -23,11 +23,13 @@ JPM Coin runs on a blockchain technology called Quorum, a network J.P. Morgain d
 
 ### 3. Landscape
 
-JPM Coin sits on the domain of blockchain and [cryptocurrencies](https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/). In the last 5-10 years, blockchain has gained its popularity. Particularly, the Ethereum blockchain system introduces computer programs into the blocks, representing financial instruments such as bonds. These become known as smart contracts. One significant feature of cryptocurrency is decentralized control. It means that its supply and value are controlled by the activities of their users and complicated protocols, not by central banks or other regulatory authorities. There are also other financial or technology companies that have invested in blockchain, for example, Bitcoin, Facebook Libra and Goldman Sach's Marcus.
+JPM Coin sits on the domain of blockchain and [cryptocurrencies](https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/). In the last 5-10 years, blockchain has gained its popularity. Particularly, the Ethereum blockchain system introduces computer programs into the blocks, representing financial instruments such as bonds. Quorum, an open-source platform, has been used by more than 300 banks to run the interbank information network. JP Morgan is not an exception. They built the Quorum blockchain internally using the Ethereum network. One of significant applications of Ethereum blockchain is smart contract. However, there are a few associated risks given its early development stage. For example, the hack of DAO (decentralized autonomous organization) had led to the loss of $50 million.
+
+ One significant features of cryptocurrency is decentralized control. It means that its supply and value are controlled by the activities of their users and complicated protocols, not by central banks or other regulatory authorities. There are also other financial or technology companies that have invested in blockchain, for example, Bitcoin, Facebook Libra and Goldman Sach's Marcus.
 
 ### 4. Results
 
-The business impact of JPM Coin is not huge given its still in a early stage. Many within the community question whether the coin is a necessity because banks already have similar procedures in place regarding other payment processes. However, some believe that JPM Coin is the solution to the SWIFT payment system, and there are several metrics that have been used to measure the efficienty of a digital currency such as settlement times, transcation costs as well as error margins. It turns out that JPM Coin has performed relatively better than other digital assets by its faster settlement times, smaller costs and reduced error amounts.
+The business impact of JPM Coin is relatively samll at this moment. Many within the community question whether the coin is a necessity because banks already have similar procedures in place regarding other payment processes. However, some believe that JPM Coin is the solution to the SWIFT payment system, and there are several metrics that have been used to measure the efficienty of a digital currency such as settlement times, transcation costs as well as error margins. It turns out that JPM Coin has performed better than other digital assets by its faster settlement times, smaller costs and reduced error amounts.
 
 ### 5. Recommendations
 
@@ -35,6 +37,12 @@ Since investors have to register for a pre-specified account in order to exchang
 
 ### Sources
 
-[https://www.bitcoinmarketjournal.com/jpm-coin/#:~:text=JPM%20Coin%20is%20designed%20to,1%20to%20the%20US%20dollar.&text=JPM%20Coin%20runs%20on%20the,version%20of%20the%20Ethereum%20network.]
+[https://www.bitcoinmarketjournal.com/jpm-coin/#:~:text=JPM%20Coin%20is%20designed%20to,1%20to%20the%20US%20dollar.&text=JPM%20Coin%20runs%20on%20the,version%20of%20the%20Ethereum%20network]
 
 [https://www.investopedia.com/jpmorgan-to-launch-jpm-coin-4587182]
+
+[https://en.wikipedia.org/wiki/Ethereum]
+
+[https://www.reuters.com/article/us-jpmorgan-consensys-quorum/consensys-acquires-jpmorgans-blockchain-platform-quorum-idUSKBN25L1MR]
+
+[https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-what-is-a-dao]
